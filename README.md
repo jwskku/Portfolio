@@ -183,7 +183,7 @@
 
 > **관련 URL :** [데이콘 페이지](https://dacon.io/competitions/official/236518/overview/description)
 > 
-> **핵심 역할** : 주요 데이터 해석 및 모델 학습
+> **핵심 역할 :** 주요 데이터 해석 및 모델 학습
 >
 > **주요 방법론 :** LightGBM, RandomForestRegressor, GNN, Model ensemble
 <details>
@@ -256,7 +256,7 @@
 
 > **관련 URL :** [공모전 페이지](https://www.gims.go.kr/competPage.do)
 > 
-> **핵심 역할** : 팀장, 데이터 수집 및 핵심 분석방법론 제안(군집화 및 유형예측)
+> **핵심 역할 :** 팀장, 데이터 수집 및 핵심 분석방법론 제안(군집화 및 유형예측)
 >
 > **주요 방법론 :** K-means Clustering, RandomForestClassifier
 <details>
@@ -335,11 +335,12 @@
 
 ## 5. [프로젝트] 핵심물품 분석을 통한 30대 조합원 방문 증대 전략
 
-> **관련 URL :** [교육 주관(DNI 컨설팅)](https://dni.co.kr/)
-> 
-> **핵심 역할 :**  교육생, 상품 구매 주기를 통한 물품 선정
+> 관련 URL : [DNI](https://dni.co.kr/)
+> 
+> 핵심 역할 : 교육생, 상품 구매 주기를 통한 물품 선정
 >
-> **주요 방법론 :**  SQL, CRM
+> 주요 방법론 : SQL, CRM
+
 
 <details>
 <summary>열기 / 닫기</summary>
