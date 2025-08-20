@@ -1,0 +1,20 @@
+{
+    "base": 5,
+    "rdkit": 20,
+    "atompairs": 10,
+    "topologicaltorsions": 4,
+    "ecfp4": 68,
+    "ecfp6": 2,
+    "maccs": 14,
+    "pattern": 29,
+    "2dpharmacophore": 3,
+    "erg": 0,
+    "mhfp": 45,
+    "secfp": 32,
+    "ecfp4_additional": 6,
+    "ecfp6_additional": 10,
+    "atompairs_additional": 0,
+    "maccs_additional": 20,
+    "topologicaltorsions_additional": 14,
+    "grover": 96
+}
