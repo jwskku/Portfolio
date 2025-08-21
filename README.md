@@ -143,7 +143,7 @@
 <summary>열기 / 닫기</summary>
 
 
-### 사용 언어 및 라이브러리
+### 사용 언어
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 분석 개요
@@ -193,7 +193,7 @@
 <details>
 <summary>열기 / 닫기</summary>
 
-### 사용 언어
+### 사용 언어 및 라이브러리
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
