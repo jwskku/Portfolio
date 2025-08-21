@@ -351,7 +351,7 @@
 
   
 ### 사용 언어
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SAS SQL](https://img.shields.io/badge/SAS%20SQL-105481?style=for-the-badge&logo=sas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SAS SQL](https://img.shields.io/badge/SAS%20SQL-105481?style=for-the-badge&logo=sas&logoColor=white)
 
 
 ### 분석 개요
