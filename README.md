@@ -17,11 +17,22 @@
 
 <br />
 
+## 전공 학업 키워드
+<b><code>Machine Learning</code></b> <b><code>Deep Learning</code></b> <b><code>Time series</code></b> <b><code>High dimension</code></b> <b><code>Causal inference</code></b> <b><code>Categorical data analysis</code></b>
+<br />
+
+## 논문
+* 제목 : Efficient variable selection for support vector machine in high-dimensional data.
+* 키워드 : 초고차원, 변수 거르기(Screening), 변수선택, 비선형, 조건부.
+* 요약 : 기존의 SVM(Support Vector Machine)을 이용한 변수 선택 방법론들은 크게 penalization 방법과 RFE(Recursive Feature Elimination) 방법이 있다. 두 방법 모두 고차원 상황에 적용하기에 적절하지 않으며, 이중 RFE 방법은 특히 정확도와 계산상의 문제를 가진다. 이를 해결하기 위해 변수 거르기 단계를 모델에 적용할 것을 제안한다. 변수 거르기 단계에서는 이후 SVM의 이점을 살리기 위해 비선형, 조건부 관계를 갖는 변수를 선택할 수 있는 SVS(Sufficient Variable Sceening)를 채택했다. RFE 단계에서는 permuation test를 도입하여 기존 사용자가 유의한 변수의 개수를 사전에 정의하는 방식에서, 데이터를 기반으로 유의한 변수의 개수를 직접 도출하는 모델을 작성했다. 최종적으로 초고차원 데이터에서 직접 유의한 변수를 추출하는 모델을 만들어 시뮬레이션 데이터, 유전체 데이터에 적용 및 분석을 진행했다.
+<br />
+
 ## 관심 분야 및 스킬
 * 고차원 데이터 분석을 위한 변수 선택 및 차원 축소.  
 * PC(Principle component), Factor(요인) 기반 기저변수 탐색.  
 * 개인별 특성에 기반한 점수화, 분류모델 및 해석.
-* 대용량 데이터 전처리 및 탐색.  
+* 대용량 데이터 전처리 및 탐색.
+* 시계열 데이터 분석.
 
 <br />
 
